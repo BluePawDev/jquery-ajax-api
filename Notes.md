@@ -13,3 +13,10 @@ Application Program Interface
   - We can get to a resource by specifying in the URL
 * *HTTP headers* tell us the status of the request (e.g. was it successful) via *HTTP status codes*
 * *HTTP bodies* contain data that may be needed for the request and/or response
+
+* GET: Retrieve a resource
+* POST: Create a new resource
+* PUT:
+* DELETE:
+
+* Resource/Example: www.giantbomb.com
