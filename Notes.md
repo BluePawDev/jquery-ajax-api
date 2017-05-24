@@ -4,6 +4,8 @@ Application Program Interface
 * Format of request expects
 * Format of response
 ### REST APIs
+* Representational state transfer (REST) or RESTful
+* Additional Information: See https://en.wikipedia.org/wiki/Representational_state_transfer
 * Rely on fact that HTTP is the protocol of the web
 * Example: GET localhost:3000
 * GET request is very specific meaning that we are requesting data
