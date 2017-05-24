@@ -22,3 +22,9 @@ Application Program Interface
 * DELETE:
 
 * Resource/Example: www.giantbomb.com
+
+* Cannot send JavaScript over HTTP, but can send JavaScript represented as a string
+
+#### JSON
+* Additional Information: See https://en.wikipedia.org/wiki/JSON
+* Additional Information: See http://www.json.org/
